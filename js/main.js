@@ -47,8 +47,8 @@ function mainSlider() {
         doAnimations($animatingElements);
     });
     BasicSlider.slick({
-        autoplay: false,
-        autoplaySpeed: 10000,
+        autoplay: true,
+        autoplaySpeed: 4000,
         dots: false,
         fade: true,
 		prevArrow: '<button type="button" class="slick-prev"> <i class="fas fa-angle-left"></i></button>',
