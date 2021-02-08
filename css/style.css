@@ -106,6 +106,9 @@ h6 {
 	text-transform: normal;
 	line-height: 1.4;
 }
+h1.hitam{
+	color: #ffffff;
+}
 h1 a,
 h2 a,
 h3 a,
@@ -602,7 +605,7 @@ label {
 .slider-text{}
 .slider-text span {
 	font-size: 14px;
-	color: #5ba760;
+	color: #ffffff;
 	font-weight: 500;
 	letter-spacing: 2px;
 	font-family: 'Rubik', sans-serif;
